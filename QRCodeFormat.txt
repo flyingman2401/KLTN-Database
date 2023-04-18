@@ -1,0 +1,8 @@
+{
+   "ingredient_id":"VEG001",
+   "food_manufacture":"Vasifood",
+   "food_PRD":"2012-02-27",
+   "food_EXP":"2012-02-27",
+   "food_amount":810,
+   "food_unit":"gram"
+}
